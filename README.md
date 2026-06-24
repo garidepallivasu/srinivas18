@@ -1,10 +1,9 @@
 # 💫 About Me:
-💼 Currently working as an AWS DevOps Engineer at VisionQuest Solutions Pvt. Ltd
-🎓  I’m an MBA graduate specializing in Human Resource Management (HR)
-⚡ Skilled in AWS | DevOps | Jenkins | Docker | Kubernetes | Terraform | Ansible | Git | GitHub | Linux | Shell Scripting | CI/CD | CloudWatch | Prometheus | Grafana | Nginx | Tomcat | MySQL
-🔭 I’m currently building Cloud Infrastructure on AWS, CI/CD Automation Pipelines, Dockerized Applications, and Kubernetes Deployments.
-🌱 I’m currently learning Advanced AWS Services, Kubernetes (EKS), Azure Cloud, Python Scripting, CI/CD Automation, and Infrastructure as Code (Terraform).
-⚡ Fun fact: I love automating workflows, exploring cloud technologies, and continuously learning new DevOps tools. 
+Currently working as an AWS DevOps Engineer at VisionQuest Solutions Pvt. Ltd
+I’m an MBA graduate specializing in Human Resource Management (HR) 
+
+Skilled in AWS | DevOps | Jenkins | Docker | Kubernetes | Terraform | Ansible | Git | GitHub | Linux | Shell Scripting | CI/CD | CloudWatch | Prometheus | Grafana | Nginx | Tomcat | MySQL
+
 
 
 ## 🌐 Socials:
